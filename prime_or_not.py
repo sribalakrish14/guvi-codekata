@@ -7,4 +7,4 @@ if n>1:
 if j<=0:
     print "yes"
 else:
-    print "No"
+    print "no"
