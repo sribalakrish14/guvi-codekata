@@ -1,7 +1,7 @@
 n=int(raw_input())
 arms=0
 temp=n
-while n>1:
+while n>0:
     rem=n%10
     arms=arms+rem**3
     n=n/10
