@@ -11,8 +11,8 @@ for i in alphabet:
         count=0
     else:
         count=+1
-if(count<=0):
-    print "no"
-else:
+if(count==26):
     print "yes"
+else:
+    print "no"
     
